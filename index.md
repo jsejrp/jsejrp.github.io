@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I am a fifth year PhD student at the University of Toronto, working with Sander Kupers. I am broadly interested in applying (stable) homotopoy theoy to manifolds.
+I am a fifth year PhD student at the University of Toronto, working with Sander Kupers. I am broadly interested in applying (stable) homotopoy theoy to manifolds. More specifically
