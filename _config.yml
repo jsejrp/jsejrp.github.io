@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bannf.JPG"
+  avatar : "/assets/images/banff.JPG"
   bio    : "PhD Student in Algebraic Topology."
   links:
     - label: "Website"
