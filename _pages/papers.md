@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /papers/
-title: "Papers"
+title: "papers"
 ---
 
 Here are my papers:
