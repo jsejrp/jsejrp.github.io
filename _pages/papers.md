@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /papers/
 title: "Papers"
 ---
