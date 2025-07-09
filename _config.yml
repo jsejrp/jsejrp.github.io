@@ -50,8 +50,6 @@ include:
 
 atom_feed:
   hide: true
-  
-favicon: "/favicon-32x32.png"
 
 
 # Plugins (previously gems:)
@@ -69,15 +67,15 @@ author:
   avatar : "/assets/images/banff.JPG"
   bio    : "PhD Student in Algebraic Topology."
   links:
-    - label: "Website"
+    - label: "arxiv"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://arxiv.org/search/?query=jonathan+sejr+pedersen&searchtype=all&source=header"
+    - label: "UofT"
+      icon: "fa fa-university"
+      url: "https://www.mathematics.utoronto.ca/people/directories/graduate-students/jonathan-pedersen"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
