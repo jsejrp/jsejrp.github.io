@@ -1,6 +1,7 @@
 ---
 permalink: /papers/
 title: "Papers"
+math: true
 ---
 
 ## Papers:
