@@ -12,4 +12,4 @@ title: "Papers"
 - (4) S. Goldman, J.S. Pedersen, M. Volpe: Signatures in Hermitian $K$-theory (in preparation)
 
 ### Notes
--  <a href="/assets/Notes/signature.pdf" target="_blank">A Surface Bundle of Non-zero Signatures</a>
+-  <a href="/assets/Notes/signature.pdf" target="_blank">A Surface Bundle of Non-zero Signature</a>
