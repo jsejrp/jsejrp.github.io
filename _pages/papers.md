@@ -10,4 +10,6 @@ title: "Papers"
 - (2) J.S. Pedersen & A. Senger: Splitting the Madsen-Tillmann Spectra $MT\theta_n$. [arxiv](https://arxiv.org/abs/2503.10507)
 - (3) M.Land, T. Nikolaus & J.S. Pedersen: On the Tate $L$-theory of the Integers. (available upon request)
 - (4) S. Goldman, J.S. Pedersen, M. Volpe: Signatures in Hermitian $K$-theory (in preparation)
-  
+
+### Notes
+-  <a href="/assets/Notes/signature.pdf" target="_blank">A Surface Bundle of Non-zero Signatures</a>
