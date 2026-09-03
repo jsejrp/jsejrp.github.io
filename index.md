@@ -5,6 +5,8 @@
 layout: single
 author_profile: true
 ---
-I am a fifth year PhD student at the University of Toronto, working with Alexander Kupers. I am broadly interested in applying (stable) homotopy theory to manifolds. 
+I am a postdoc at the [Institute for Advanced Study](https://www.ias.edu/), mentored by [Jacob Lurie](https://www.math.ias.edu/~lurie/). I am broadly interested in applying (stable) homotopy theory to manifolds, especially through the lens of hermitian K-theory. 
 
-Starting in Fall 2026, I will be a postdoc at the [Institute for Advanced Study](https://www.ias.edu/), mentored by [Jacob Lurie](https://www.math.ias.edu/~lurie/).
+I was previously a PhD student at the University of Toronto, working with [Alexander Kupers](https://www.utsc.utoronto.ca/people/kupers/). 
+
+
