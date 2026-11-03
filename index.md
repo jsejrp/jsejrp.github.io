@@ -9,4 +9,6 @@ I am a postdoc at the [Institute for Advanced Study](https://www.ias.edu/), ment
 
 I was previously a PhD student at the University of Toronto, working with [Alexander Kupers](https://www.utsc.utoronto.ca/people/kupers/). 
 
+I can reached at jsejrp (at) ias (dot) edu
+
 
